@@ -8,7 +8,6 @@ Required Features
 5. Users can see the details of a delivery order.
 6. Admin can change the status and present location of a parcel delivery order.
 
-
  
 Optional Features
 1. The application should display a Google Map with Markers showing the pickup location and the destination.
