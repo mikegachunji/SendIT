@@ -14,4 +14,4 @@ Optional Features
 2. The application should display a Google Map with a line connecting both Markers (pickup location and the destination).
 3. The application should display a Google Map with computed travel distance and journey duration between the pickup location and the destination.
 4. The user gets real-time email notification when Admin changes the status of their parcel.
-5. The user gets real-time email notification when Admin changes the present location their parcel. 
+5. The user gets real-time email notification when Admin changes the present location their parcel.
